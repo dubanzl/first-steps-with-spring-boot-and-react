@@ -1,0 +1,14 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url("https://www.fingit.co/assets/fonts/kaushan-script-regular.otf");
+}
+
+.container, .container-fluid {
+  margin-top: 5px;
+  padding: 30px;
+}
+.fingitManage{
+  font-family: myFirstFont;
+  font-size: 35px;
+  color: #76B51B;
+}
